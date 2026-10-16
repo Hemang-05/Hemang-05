@@ -7,12 +7,8 @@ I build **AI-powered products, scalable backend systems, and data-intensive appl
 I enjoy taking products from **idea → architecture → implementation → deployment**.
 
 <p align="left">
-  <a href="https://github.com/Hemang-05">
-    <img src="https://img.shields.io/github/followers/Hemang-05?label=Followers&style=flat" />
-  </a>
-  <a href="https://github.com/Hemang-05?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github" />
-  </a>
+  <a href="https://github.com/Hemang-05">GitHub</a> •
+  <a href="https://github.com/Hemang-05?tab=repositories">Projects</a>
 </p>
 
 ---
